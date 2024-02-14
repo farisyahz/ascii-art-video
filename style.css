@@ -1,0 +1,11 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(24, 24, 27);
+    color: white;
+    font-family: 'Courier';
+    font-size: 10pt;
+    line-height: 10pt;
+    letter-spacing: 5pt;
+
+}
